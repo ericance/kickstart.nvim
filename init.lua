@@ -2,6 +2,7 @@
 vim.g.mapleader = ' '
 vim.g.maplocalleader = ' '
 vim.g.have_nerd_font = true
+vim.g.netrw_bufsettings = 'noma nomod nu nowrap ro nobl'
 vim.opt.relativenumber = true
 vim.opt.clipboard = 'unnamedplus'
 vim.opt.breakindent = true
